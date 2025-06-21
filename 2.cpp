@@ -1,4 +1,3 @@
-
 // Variables, Datatypes, TypeConversion, TypeCasting, Inputs, Operators in C++
 
 /* Variable Naming rules:
