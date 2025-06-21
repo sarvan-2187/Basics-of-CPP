@@ -5,7 +5,7 @@
 /* This is a 
 Multi line Comment */
 
-//C++ is a Case Sensitive Language
+// C++ is a Case Sensitive Language
 
 /* Commands:
 a) For Compilation: g++ fileName with Extension
